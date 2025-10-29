@@ -7,3 +7,16 @@
 0.0.0.0 45.250.208.0/22	Riot Games, Inc.	A smaller range.
 0.0.0.0 103.219.128.0/22	Riot Games, Inc.	A smaller range.
 0.0.0.0 103.240.224.0/22	Riot Games, Inc.	A smaller range.
+0.0.0.0 playvalorant.com
+0.0.0.0 riotgames.com
+0.0.0.0 riotcdn.net
+0.0.0.0 valorant.scd.riotcdn.net
+0.0.0.0 valorant.secure.dyn.riotcdn.net
+0.0.0.0 youngjoygame.com
+0.0.0.0 moonton.com
+0.0.0.0 wscdn.ml.youngjoygame.com
+0.0.0.0 c3cdn.ml.youngjoygame.com
+0.0.0.0 qncdn.ml.youngjoygame.com
+0.0.0.0 cdn.ml.youngjoygame.com
+0.0.0.0 161.202.210.128/25
+0.0.0.0 169.46.232.160/28
