@@ -1265,3 +1265,11 @@
 0.0.0.0 customerevents.netflix.com
 0.0.0.0 ichnaea.netflix.com
 0.0.0.0 www.ichnaea.netflix.com
+
+# Autodesk
+0.0.0.0 genuine-software.autodesk.com 
+0.0.0.0 genuine-software1.autodesk.com 
+0.0.0.0 genuine-software2.autodesk.com 
+0.0.0.0 ase.autodesk.com 
+0.0.0.0 ase-cdn-stg.autodesk.com 
+
