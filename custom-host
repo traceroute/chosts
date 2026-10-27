@@ -798,6 +798,11 @@
 0.0.0.0 www2.twitter.com
 0.0.0.0 www4.twitter.com
 0.0.0.0 x.com
+0.0.0.0 t.co
+0.0.0.0 abs.twimg.com
+0.0.0.0 pbs.twimg.com
+0.0.0.0 video.twimg.com
+0.0.0.0 cms-twimg.com
 
 
 # Tumblr
